@@ -1,6 +1,27 @@
 # RTL-proteins-AND-SGs
 Open Access data for manuscript entitled Endogenous retrovirus-like proteins recruit UBQLN2 to stress granules and shape their functional biology
+
 README: Endogenous retrovirus-like proteins recruit UBQLN2 to stress granules and shape their functional biology
+Journal: Science
+Manuscript: adu6354
+
+ Milaganur Mohan, Harihar1;Fernandez, Martin2; Huang, Camellia1;  Lin, Rita1; Ryou, Jaimie1; Seyfried, Donald1; Grotewold, Nikolas1; Barget, Anna J2; Whiteley, Alexandra3; Barmada, Sami1; Basrur, Venkatesha1; Mosalaganti, Shyamal1; Paulson, Henry1; Sharkey, Lisa1;
+Author affiliations
+
+University of Michigan Medical School
+University of Michigan
+University of Colorado Boulder
+
+Funding:
+Office of Environmental Management, P30AG072931
+National Institute of Health, T32GM141840
+National Institute of Health, T32GM007863
+National Institute of Health, R01NS097542
+National Institute of Health, R01NS113943
+National Institute of Health, 1R56NS128110-01
+National Institute of Health, DP2GM150019-01
+National Institute of Health, R35NS122302
+National Institute of Health, NIH S10OD030275
 
 
 Description of the data and file structure
